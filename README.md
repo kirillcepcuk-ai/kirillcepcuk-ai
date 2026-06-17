@@ -1,6 +1,6 @@
 ## 💻 Ilya
 
-14 y/o, Belarus.  
+Young Developer, Belarus.  
 I write code that works.  
 Design isn't my thing — I like clean logic, bots, and building things from scratch.
 
